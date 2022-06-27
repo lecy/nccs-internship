@@ -10,14 +10,15 @@
 
 **Team Presentation Schedule** 
 
-mon 6/27: olivia
-tues 6/28: none
-wed 6/29:  (no standup)
-thurs 6/30: blake & vincent   
+* mon 6/27: olivia   
+* tues 6/28: none  
+* wed 6/29:  (no standup)  
+* thurs 6/30: blake & vincent   
+* mon 7/4: holiday: no standup  
+* tues 7/5: akila & pat     
+* wed 7/6: su & christian        
+* thurs 7/7: none  
 
-mon 7/4: holiday: no standup
-tues 7/5: akila & pat     
-Wed 7/6: su & christian       
-Thurs 7/7: none
+
 
 
