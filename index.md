@@ -35,12 +35,13 @@ Slides are always welcome, but keep background context to a minimum (people are 
 
 **Suggestions:** 
 
-* Conceptual diagrams of your code are helpful - functions are called in what order and why? What are they doing at each step? 
-* Reproducible examples are always welcome! 
-* * Pick one or two things for a drill-down into details on code or data. You can't do this with your entire project in 20 minutes, so pick one code snipped, one function, or one algorithm to highlight. 
-* Share links to your code and data so others can follow along.
-* * Make demo datasets accessible using dput() functions to embed R objects within a script, or loading the demo dataset to GitHub and providing code to load it remotely.  
-* Create a script so people can load the package, load demo data, and follow-along. 
+* Conceptual diagrams of your code are helpful - functions are called in what order and why? What are they doing at each step?  
+* Pick one or two things for a drill-down into details on code or data. 
+  * You can't do this with your entire project in 20 minutes, so pick one code snipped, one function, or one algorithm to highlight. 
+* Reproducible examples are always welcome!
+  * Make demo datasets accessible using dput() functions to embed R objects within a script, or loading the demo dataset to GitHub and providing code to load it remotely. 
+  * Share links to your code and data so others can follow along.
+  * Create a script so people can load the package, load demo data, and follow-along. 
 
 The goal is to get feedback on your current work, but also for teammates to get a window into projects, learn from seeing how others are implementing their code, and have an opportunity to hear others talk through problems out loud. 
 
